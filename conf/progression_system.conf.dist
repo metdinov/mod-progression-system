@@ -37,21 +37,21 @@ ProgressionSystem.ReapplyUpdates = 0
 #        Default:     0 - Not loaded.
 #
 
-ProgressionSystem.Bracket_0       = 0
+ProgressionSystem.Bracket_0       = 1
 # Shadowfang Keep, Deadmines, Wailing Caverns, Blackfathom Deeps, Ragefire Chasm
-ProgressionSystem.Bracket_1_19    = 0
+ProgressionSystem.Bracket_1_19    = 1
 # Stormwind Stockades, Razorfen Kraul, Gnomeregan
-ProgressionSystem.Bracket_20_29   = 0
+ProgressionSystem.Bracket_20_29   = 1
 # Uldaman, Razorfen Downs, Scarlet Monastery
-ProgressionSystem.Bracket_30_39   = 0
+ProgressionSystem.Bracket_30_39   = 1
 # Sunken Temple, Zul'Farrak, Maraudon
-ProgressionSystem.Bracket_40_49   = 0
-# Blackrock Depths, Dire Maul, Scholomance, Stratholme 
-ProgressionSystem.Bracket_50_59_1 = 0
+ProgressionSystem.Bracket_40_49   = 1
+# Blackrock Depths, Dire Maul, Scholomance, Stratholme
+ProgressionSystem.Bracket_50_59_1 = 1
 # Blackrock Spire attunement requirement
-ProgressionSystem.Bracket_50_59_2 = 0
+ProgressionSystem.Bracket_50_59_2 = 1
 # Blackrock Spire
-ProgressionSystem.Bracket_60_1_1  = 0
+ProgressionSystem.Bracket_60_1_1  = 1
 # Molten Core
 ProgressionSystem.Bracket_60_1_2  = 0
 # Onyxia's Lair
